@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 305 173" style="enable-background:new 0 0 305 173;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2071;fill-rule:evenodd;clip-rule:evenodd;fill:#AC78AC;stroke:#979797;enable-background:new    ;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;stroke:url(#SVGID_1_);stroke-width:5;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#3C98F9;}
+</style>
+<g id="Artboard">
+	<g id="Group-2">
+		<path class="st0" d="M294.5,0.5h-284c-5.5,0-10,4.5-10,10v152c0,5.5,4.5,10,10,10h284c5.5,0,10-4.5,10-10v-152
+			C304.5,5,300,0.5,294.5,0.5z M282.5,140.5c0,5.5-4.5,10-10,10h-240c-5.5,0-10-4.5-10-10v-108c0-5.5,4.5-10,10-10h240
+			c5.5,0,10,4.5,10,10V140.5z"/>
+		<g id="Rectangle_00000132770599735108350520000004438977647372441743_">
+			<g>
+				<path class="st1" d="M275,20H30c-5.5,0-10,4.5-10,10v113c0,5.5,4.5,10,10,10h245c5.5,0,10-4.5,10-10V30
+					C285,24.5,280.5,20,275,20z M282.5,140.5c0,5.5-4.5,10-10,10h-240c-5.5,0-10-4.5-10-10v-108c0-5.5,4.5-10,10-10h240
+					c5.5,0,10,4.5,10,10V140.5z"/>
+			</g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="83.9895" y1="70.5536" x2="199.0546" y2="98.8308" gradientTransform="matrix(1 0 0 -1 0 173.89)">
+				<stop  offset="3.824301e-04" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#6E416E"/>
+			</linearGradient>
+			<path class="st2" d="M282.5,32.5v108c0,5.5-4.5,10-10,10h-240c-5.5,0-10-4.5-10-10v-108c0-5.5,4.5-10,10-10h240
+				C278,22.5,282.5,27,282.5,32.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st3" d="M121,64h-11.3V109H121V64L121,64z M105.1,80.9H91.6V64H80.4V109h11.2V92.2h13.5
+		C105.1,92.2,105.1,80.9,105.1,80.9z M249.4,64h-11.3V109h11.3V64z M267.5,109V97.7H254V109L267.5,109L267.5,109z M153.6,62.8
+		c-13.1,0-23.7,10.6-23.7,23.7s10.6,23.7,23.7,23.7c13.1,0,23.7-10.6,23.7-23.7C177.2,73.4,166.7,62.8,153.6,62.8z M153.6,98.9
+		c-6.8,0-12.4-5.6-12.4-12.4s5.6-12.4,12.4-12.4S166,79.7,166,86.5S160.5,98.9,153.6,98.9z M66.9,64H55.6V109h11.3V64L66.9,64z"/>
+	<path class="st4" d="M44.3,77.6c3.8,0,6.8-3,6.8-6.8l0,0c0-3.8-3-6.8-6.8-6.8l0,0c-3.8,0-6.8,3-6.8,6.8
+		C37.5,74.5,40.6,77.6,44.3,77.6L44.3,77.6z"/>
+	<path class="st3" d="M206.6,64h-20.3v29.4h11.3v-18h9c6.2,0,11.3,5,11.3,11.3c0,6.2-5,11.3-11.3,11.3h-9v11.3h9
+		c12.5,0,22.5-10.1,22.5-22.5C229.1,74.2,219.1,64,206.6,64z"/>
+</g>
+</svg>
